@@ -14,7 +14,7 @@ Disclaimer: I am not including ALL the games I installed in the list of apps. I 
 
 My recommendation is you should open the guide in Opera Mini because it is the only browser that the guide can be loaded on my E7.
 What's improved after installing the TLS patch:
-- No more website certificate expired pop-ups. This is more crucial when it comes to loading emails–images can be loaded INSTANTANEOUSLY without asking.
+- No more "website certificate expired" pop-ups. This is more crucial when it comes to loading emails–images can be loaded INSTANTANEOUSLY without asking.
 - It is possible to use today's RSS feed and podcast show URLs, as the majority of them are HTTPS-encrypted.
 - The stock Web browser should load modern websites without relying on HTTPS proxy OR prompting errors because of old certificates.
 
