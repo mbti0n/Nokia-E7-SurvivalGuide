@@ -18,7 +18,7 @@ What's improved after installing the TLS patch:
 - It is possible to use today's RSS feed and podcast show URLs, as the majority of them are HTTPS-encrypted.
 - The stock Web browser should load modern websites without relying on HTTPS proxy OR prompting errors because of old certificates.
 
-## Apps that I am using or would recommend
+## App Recommendations
 **¹ Included in the folder**
 ### Music / Entertainment
 - JTube | [Link](https://nnp.nnchan.ru/jtube/): A working J2ME YouTube client on Symbian. Use these configurations below (added soon)
