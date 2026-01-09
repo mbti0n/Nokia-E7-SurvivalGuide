@@ -55,7 +55,7 @@ What's improved after installing the TLS patch:
   - JMobiDL
 - X-plore¹
 - ROMpatcher: Included in the Delight ROM. Always enable **CRepository4all_fix_FP2** and **Open4All RP+**. CRepository helps changing the web agent using the Delight App. Open4All RP+ helps with installing TLS 1.2 patch.
-- [Pigler Notification API](https://nnproject.cc/pna/): This adds more features to the stock notification center (e.g. currently playing songs).
+- Pigler Notification API | [Link](https://nnproject.cc/pna/): This adds more features to the stock notification center (e.g. currently playing songs).
 
 ## Extras
 There are some passionate communities/group chats about Symbian that are still around and active, and I would like to name a few.
