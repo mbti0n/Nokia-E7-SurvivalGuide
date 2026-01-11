@@ -4,6 +4,15 @@ Nokia E7 was released in 2010. People say that it was long obsolete, but for vin
 Disclaimer: I am not including ALL the games I installed in the list of apps. I only include one game that is newly made on Symbian. 
 
 
+Table of Contents
+=================
+
+  * [Dockerfile.vim](#dockerfilevim)
+  * [Screenshot](#screenshot)
+  * [Installation](#installation)
+        * [OR using Pathogen:](#or-using-pathogen)
+        * [OR using Vundle:](#or-using-vundle)
+  * [License](#license)
 
 ## ROM/Custom Firmware
 **Delight | [Link](https://www.symwld.com/delight/)**
@@ -33,7 +42,7 @@ What's improved after installing the TLS patch:
 
 ### Productivity
 - Mailbox Creator¹: An app that creates dummy Gmail and Yahoo accounts. Follow [this video's instruction](https://www.youtube.com/watch?v=qojJ1PmNfP4) to properly add new emails.
-- Google Maps¹: An app that does Google Maps things, it is actually an old version.
+- Google Maps¹: An app that does Google Maps things, despite being an old version released in 2010.
 - Translator¹ | [Link]([https://nnproject.cc/bingt/](https://web.archive.org/web/20251122183146/https://nnproject.cc/bingt/)): Use simpletranslate instance with Google Translate result.
 - Opera Mini | [Link](http://m.opera.com/?region&rnd=1937773398&act=lp&tag=mini5s60&vid=0x9c7f9c859a2dd90a&cert=all&ua=Nokia): A faster, snappier web experience for Symbian devices. It also helps loading several pages that are unloadable on other web browsers.
 - GH2ME | [Link](https://web.archive.org/web/20251128084353/https://nnproject.cc/gh2me/): A J2ME GitHub browser which is capable of browsing and searching for users and repos.
