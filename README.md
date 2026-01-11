@@ -70,8 +70,8 @@ There are some passionate communities/group chats about Symbian that are still a
 - Select the hamburger menu > ``Save``
 
 ## Working Configurations for JTube
-- Playback method: Via browser
-- Indivious API instance: http://s60tube.io.vn/
-- Proxy: Video playback
-- Playback proxy: URL prefix
-- URL prefix for playback: http://s60tube.io.vn/videoplayback?v=
+- Playback method: ``Via browser``
+- Indivious API instance: ``http://s60tube.io.vn/``
+- Proxy: ``Video playback``
+- Playback proxy: ``URL prefix``
+- URL prefix for playback: ``http://s60tube.io.vn/videoplayback?v=``
