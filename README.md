@@ -57,21 +57,22 @@ What's improved after installing the TLS patch:
 - ROMpatcher: Included in the Delight ROM. Always enable **CRepository4all_fix_FP2** and **Open4All RP+**. CRepository helps changing the web agent using the Delight App. Open4All RP+ helps with installing TLS 1.2 patch.
 - Pigler Notification API | [Link](https://web.archive.org/web/20251204073143/https://nnproject.cc/pna/): This adds more features to the stock notification center (e.g. currently playing songs).
 
-## Extras
-There are some passionate communities/group chats about Symbian that are still around and active, and I would like to name a few.
-- Symbian World on Telegram | [Link](https://t.me/symbian_world)
-- r/symbian on Reddit | [Link](https://www.reddit.com/r/symbian/)
-
-## Adding RSS Feeds
+## Guides
+### Adding RSS Feeds
 - Open the stock Web app.
 - Select the hamburger menu (the rightmost button at the bottom) > ``Feeds``
 - Select the second button from the left (next to the Back arrow button) to add a new RSS feed
 - Specify the title and the address of the RSS feed. Consider changing the feed update frequency within the ``Automatic updates`` options.
 - Select the hamburger menu > ``Save``
 
-## Working Configurations for JTube
+### Working Configurations for JTube
 - Playback method: ``Via browser``
 - Indivious API instance: ``http://s60tube.io.vn/``
 - Proxy: ``Video playback``
 - Playback proxy: ``URL prefix``
 - URL prefix for playback: ``http://s60tube.io.vn/videoplayback?v=``
+
+## Extras
+There are some passionate communities/group chats about Symbian that are still around and active, and I would like to name a few.
+- Symbian World on Telegram | [Link](https://t.me/symbian_world)
+- r/symbian on Reddit | [Link](https://www.reddit.com/r/symbian/)
