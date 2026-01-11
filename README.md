@@ -23,7 +23,7 @@ What's improved after installing the TLS patch:
 ### Music / Entertainment
 - JTube¹ | [Link](https://nnp.nnchan.ru/jtube/): A working J2ME YouTube client on Symbian. Use these configurations below (added soon)
 - MIDplay | [Link](https://github.com/phd051199/MIDPlay): A J2ME Spotify/SoundCloud/YouTube music client on Symbian.
-- JukeBox¹: A working Internet radio app on Symbian.
+- LCG JukeBox¹: A working Internet radio app on Symbian.
 - ClassiCube¹ | [Link](https://nnproject.cc/cc/): A recreation of Minecraft Classic, ported to Symbian.
 - Podcatcher¹: A working podcast app on Symbian.
 - Music and FM Radio should work without any modifications.
