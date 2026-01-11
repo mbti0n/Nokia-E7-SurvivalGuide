@@ -3,17 +3,6 @@ Nokia E7 was released in 2010. People say that it was long obsolete, but for vin
 
 Disclaimer: I am not including ALL the games I installed in the list of apps. I only include one game that is newly made on Symbian. 
 
-
-Table of Contents
-=================
-
-  * [ROM/Custom Firmware](#rom-custom-firmware)
-  * [Screenshot](#screenshot)
-  * [App Recommendations](#app-recommendations)
-        * [Music / Entertainment](#music--entertainment)
-        * [OR using Vundle:](#or-using-vundle)
-  * [License](#license)
-
 ## ROM/Custom Firmware
 **Delight | [Link](https://www.symwld.com/delight/)**
 - Improved performance as it removes unnecessary apps from the stock ROM.
