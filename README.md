@@ -10,7 +10,7 @@ Table of Contents
   * [ROM/Custom Firmware](#rom-custom-firmware)
   * [Screenshot](#screenshot)
   * [App Recommendations](#app-recommendations)
-        * [OR using Pathogen:](#or-using-pathogen)
+        * [Music / Entertainment](#music--entertainment)
         * [OR using Vundle:](#or-using-vundle)
   * [License](#license)
 
