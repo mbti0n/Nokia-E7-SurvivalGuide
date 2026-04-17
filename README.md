@@ -33,7 +33,7 @@ What's improved after installing the TLS patch:
 - Music and FM Radio should work without any modifications.
 
 ### Productivity
-- Mailbox Creator¹: An app that creates dummy Gmail and Yahoo accounts. Follow [this video's instruction](https://www.youtube.com/watch?v=qojJ1PmNfP4) to properly add new emails (still working in 2026!)
+- Mailbox Creator¹: An app that creates dummy Gmail and Yahoo accounts. Follow [this video's instruction](https://www.youtube.com/watch?v=qojJ1PmNfP4) to properly add new emails (still working in 2026!) https://symnok.blogspot.com/2023/09/how-to-connect-to-hotmailcomoutlookcom.html
 - Google Maps¹: An app that does Google Maps things, despite being an old version released in 2010.
 - Translator¹ | [Link](https://web.archive.org/web/20251122183146/https://nnproject.cc/bingt/): A working J2ME translator for Symbian devices. Follow the guide below to properly use the app.
 - Opera Mini | [Link](http://m.opera.com/?region&rnd=1937773398&act=lp&tag=mini5s60&vid=0x9c7f9c859a2dd90a&cert=all&ua=Nokia): A faster, snappier web experience for Symbian devices. It also helps loading several pages that are unloadable on other web browsers.
